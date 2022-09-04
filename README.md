@@ -33,6 +33,8 @@ Aqui podemos projetar qualquer coisa em primeira ou terceira pessoa, como uma ma
 - [Whimscal](https://whimsical.com/hackaton-2022-F5fBA3t2P2FR7Lf282FzGD)
 - [Documentação API](https://hackingrio-equipe19.herokuapp.com/docs/#/)
 - [Exposição Teste](https://spatial.io/s/SEBRAE-Exposicao-Van-Gogh-6313669debd6c80001d71a50?share=532472515839314492)
+- [Video apresentação](https://youtu.be/Tbo0yhICB-E)
+- [OpenSea NFTs](https://testnets.opensea.io/collection/hackingbadge-on34anhqmw)
 
 ### 📌 Na nossa plataforma
 
