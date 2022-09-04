@@ -1,19 +1,65 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8362797&assignment_repo_type=AssignmentRepo)
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
+# Hacking.Rio 2022 👩🏻‍💻
+## Equipe 19 - Goofy A 🤡  
+### 📌 Projeto Educa Verso - ODS 4 Educação de qualidade, desafio SEBRAE
 
-# Nome do produto - 2022
-### Nome do grupo / Nome da ODS e desafio
+Somos cinco entusiastas da tecnologia que aceitamos o desafio de trabalhar a educação no metaverso. Todos do grupo tem um pézinho na educação, seja como educador ou em empresas da área, mas sempre como alunos! Então pensamos: educação e tecnologia? É com a gente mesmo!
 
-#### Apresentação 
+Assim criamos o EducaVerso, uma plataforma que reune as melhores e mais recentes tecnologias a fim de propor um meio de trabalhar a educação no metaverso. Nossa proposta é ir além do ensino tradicional!
 
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
+## Educa Verso 2022
 
-#### O Produto
+### 📌 O Projeto
 
-Adicione detalhes sobre seu produto. Levante pontos positivos, o porquê dele ser inovador, como ele se alinha com o cluster escolhido e quaisquer outras informações relevantes ao entendimento do 'porquê' e 'como' seu produto existe e atua.
+Imagine poder realizar aulas imersivas e interativas no metaverso, exposições, palestras e todo tipo de conteúdo. Até renderizar objetos, interagir em tempo real com as pessoas e ainda testar os conteúdos aprendidos. Promover recompensas aos melhores colocados, sorteios ou NFTs com blockchain. Essa é a nossa ideia.
 
-#### Informações adicionais 
+Mesclamos o metaverso e a blockchain com uma plataforma que serve como um serviço de gerenciamento de eventos que podem ser desde exposições de arte imersivas, até aulas tradicionais com turmas, aqui tudo é valido. Registre seu evento, defina desafios, crie sua sala no metaverso e selecione ou não recompensas em nfts, sorteie ingressos, descontos ou qualquer outro tipo de premiação!
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
+Podemos ter diversos eventos simultaneos, cada um com ou sem um patrocinador, com ou sem recompensas, porém todos dentro do metaverso através de propostas educacionais em diversas áreas: cultura, arte, ensino tradicional, palestras, aulão... Então em um evento visualizamos seus desafios propostos (quiz, teste ou qualquer outra forma de avaliação de conteúdo) E podemos ir para o metaverso desse evento
+![home](./docs//images//Home.png) | ![evento](./docs//images/Home%20do%20evento.png)
+:---------------:|:----------------:|
 
-Tenha em mente que seu trabalho nesse repositório será avaliado por um Juri Técnico, informações sobre a tecnologia usada também são bem vindas. 
+### 📌 Dentro do metaverso
+
+Aqui podemos projetar qualquer coisa em primeira ou terceira pessoa, como uma maravilhosa exposição imersiva as artes de Van Gogh, utilizando objetos 3D como esculturas ou até uma incrivel imersão no Quarto em Arles, uma de suas obras mais famosas! Confire na gif abaixo
+
+![gifexposicao](./docs/gif//gif-exposicao.gif) | ![gifexposicao](./docs/gif/exposicao-vangogh.gif)
+:---------------:|:----------------:|
+
+### 📌 Na nossa plataforma
+
+Cadastre e patrocine eventos, crie medalhas em NFT como recompensa de participação, realize sorteio para os, interaja e principalmente, eduque!
+
+![gifexposicao](./docs//images/NFT%20Selecionada.png) | ![gifexposicao](./docs/images/Ranking%20da%20exposi%C3%A7%C3%A3o.png) | io
+:---------------:|:----------------:|:----------------:
+
+## 💻 Tech
+#### Back-end
+  - NestJS
+  - Postgres
+  - TypeORM
+  - JWT
+### Web
+  - Flutter
+### Design
+  - Figma
+  - Whimscal
+  - Design system
+  - Material Icons
+  - UI Faces
+  - Google Fonts
+### Blockchain
+  - HardHat
+  - Alchemy
+  - Ethers
+  - Pinata
+  - ERC721
+  - Open Zeppelin
+### Metaverso
+  - Spatial.io
+### Banco de Dados
+![banco](./docs/images/sgbd.png)
+
+## Equipe Goofy A 🤡
+
+[![bernardo](./docs//time/bernardo.png)](https://www.linkedin.com/in/bernardo-arag%C3%A3o-319443201/) | [![daniel](./docs//time/daniel.png)](https://www.linkedin.com/in/dmsant/) | [![milena](./docs/time//millena.png)](https://www.linkedin.com/in/millena-oliveira-82a863211/) | [![bauer](./docs//time/bauer.png)](https://www.linkedin.com/in/rafael-bauer-oliva-a600a5117/) | [![sampaio](./docs/time/rafasampaio.png)](https://www.linkedin.com/in/sampaiorafaeldev/)
+:---------------:|:----------------:|:----------------:|:----------------:|:----------------:
