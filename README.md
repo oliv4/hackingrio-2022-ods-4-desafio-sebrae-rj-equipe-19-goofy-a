@@ -26,6 +26,14 @@ Aqui podemos projetar qualquer coisa em primeira ou terceira pessoa, como uma ma
 ![gifexposicao](./docs/gif//gif-exposicao.gif) | ![gifexposicao](./docs/gif/exposicao-vangogh.gif)
 :---------------:|:----------------:|
 
+## 📌 Acesse  
+
+- [Plataforma](https://codebbsitter.github.io/hackingrio-page/#/)
+- [Figma](https://www.figma.com/file/fNZXMfKdh0DSnXpyfM3Dd2/Hackaton-2022?node-id=75%3A39)
+- [Whimscal](https://whimsical.com/hackaton-2022-F5fBA3t2P2FR7Lf282FzGD)
+- [Documentação API](https://hackingrio-equipe19.herokuapp.com/docs/#/)
+- [Exposição Teste](https://spatial.io/s/SEBRAE-Exposicao-Van-Gogh-6313669debd6c80001d71a50?share=532472515839314492)
+
 ### 📌 Na nossa plataforma
 
 Cadastre e patrocine eventos, crie medalhas em NFT como recompensa de participação, realize sorteio para os, interaja e principalmente, eduque!
