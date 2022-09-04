@@ -1,0 +1,8 @@
+API_URL=hackingrio-equipe19.herokuapp.com
+LOGIN_API=/auth/login
+USER_PROFILE=/user
+EVENTS=/events
+CHALLENGES=/events/challenges
+COMPANIES=/companies
+QUIZ=/quiz
+APP_NAME =TESTE

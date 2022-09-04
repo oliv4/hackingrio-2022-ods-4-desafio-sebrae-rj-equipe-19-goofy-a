@@ -1,5 +1,6 @@
 # Hacking.Rio 2022 👩🏻‍💻
 ## Equipe 19 - Goofy A 🤡  
+![educaverso](./docs/images/principal.png)
 ### 📌 Projeto Educa Verso - ODS 4 Educação de qualidade, desafio SEBRAE
 
 Somos cinco entusiastas da tecnologia que aceitamos o desafio de trabalhar a educação no metaverso. Todos do grupo tem um pézinho na educação, seja como educador ou em empresas da área, mas sempre como alunos! Então pensamos: educação e tecnologia? É com a gente mesmo!

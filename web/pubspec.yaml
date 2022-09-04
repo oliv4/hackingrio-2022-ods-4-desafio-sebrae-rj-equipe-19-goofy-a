@@ -1,0 +1,40 @@
+name: hrio_quiz
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  mask_text_input_formatter: ^2.3.0
+  flutter_easyloading: ^3.0.3
+  flutter_dotenv: ^5.0.2
+  easy_mask: ^2.0.1
+  data_table_2: ^2.2.3
+  cache_manager: ^1.0.0+4
+  validators: ^3.0.0
+  http: ^0.13.5
+  snippet_coder_utils: ^1.0.9
+  easy_search_bar: ^2.3.1
+  footer: ^0.0.4
+  flutter_widget_from_html: ^0.8.5
+  flutter_widget_from_html_core: ^0.8.5+3
+  fwfh_webview: ^0.6.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - dotenv
+    - assets/
+    - assets/images/
+    - assets/images/login/
